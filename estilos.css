@@ -1,0 +1,37 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+}
+section {
+  background-color: #fddbb0; 
+  padding: 20px;
+  margin: 20px;
+}
